@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">SignUpForm</string>
     <string name="welcome">Welcome to the Sign Up Form</string>
+    <string name="displayName">Name:</string>
+    <string name="displayEmail">Email:</string>
+    <string name="displayPassword">Password:</string>
+    <string name="displayPasswordConfirm">Confirm Password</string>
 </resources>
