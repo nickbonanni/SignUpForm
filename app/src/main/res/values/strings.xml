@@ -4,5 +4,7 @@
     <string name="displayName">Name:</string>
     <string name="displayEmail">Email:</string>
     <string name="displayPassword">Password:</string>
-    <string name="displayPasswordConfirm">Confirm Password</string>
+    <string name="displayPasswordConfirm">Confirm Password:</string>
+    <string name="save">Save</string>
+    <string name="error">Error</string>
 </resources>
