@@ -6,5 +6,6 @@
     <string name="displayPassword">Password:</string>
     <string name="displayPasswordConfirm">Confirm Password:</string>
     <string name="save">Save</string>
-    <string name="error">Error</string>
+    <string name="errorEmpty">Error: Field Incomplete</string>
+    <string name="errorMatch">Error: Passwords do not match</string>
 </resources>
