@@ -7,4 +7,4 @@ If the password and password confirmation do not match the user will be shown a 
 Once every field is filled and the passwords match the user will be presented with a message welcoming them to the form.
 
 
-A screenshot can be found at https://ibb.co/LhYNpXh (Not sure if there is a way to upload screenshots directly to the README)
+A screenshot can be found at https://ibb.co/TwQKvGN (Not sure if there is a way to upload screenshots directly to the README)
